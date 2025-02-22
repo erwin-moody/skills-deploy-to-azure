@@ -1,4 +1,4 @@
-name: Stage the app in azure lab
+name: stage the app in azure lab
 
 on:
   pull_request:
